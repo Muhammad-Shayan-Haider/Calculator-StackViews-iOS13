@@ -1,6 +1,6 @@
-# Calculator Layout Boss Challenge
+# Calculator 
 
-No knowledge is your own until you put it into practice. Using what you've learnt about auto layout, stack views and setting constraints, create the following UI. 
+An iOS application demonstrating stack views in UIKit.
 
 ## Portrait
 
